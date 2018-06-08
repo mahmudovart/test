@@ -4,7 +4,9 @@
  */
 class NewClass extends AnotherClass
 {
-	
-	
+	public function Newfun(){
+		echo "Helo!";
+	}
+
 }
 ?>
